@@ -1,0 +1,137 @@
+h1 {
+    font-size: 200%;
+    font-family: Verdana;
+    color: #ff0000;
+}
+p {
+    font-size: 100%;
+    font-family: Verdana;
+    color: #ff0000;
+    margin-left: 0px;
+}
+h2 {
+    font-size: 150%;
+    font-family: Verdana;
+    color: ##CD5C5C;
+    font-weight: bold;
+    margin-left: 560px;
+}
+div.pan {
+    width: 50px;
+    height:50px;
+}
+div.pan img {
+    width: 50px;
+    height: 50px;
+    margin-left: 0;
+}
+p.text {
+    font-size: 150%;
+    font-family: Times;
+    color: #000000;
+    font-weight: italic;
+    margin-left: 200px;
+}
+img {
+    filter: brightness(40%);
+    font-size: 50%;
+    font-family: Verdana;
+    color: #000000;
+    font-weight: bold;
+    margin-left: 0px;
+}
+h3 {
+    font-size: 200%;
+    font-family: Verdana;
+    color: ##CD5C5C;
+    font-weight: bold;
+    margin-left: 810px;
+    padding-top: 50px;
+}
+p.special-text {
+    font-size: 150%;
+    font-family: Verdana;
+    color: #000000;
+    margin-left: 330px;
+
+}
+ul {
+    font-size: 120%;
+    font-family: Courier;
+    color: #000000;
+    margin-left: 350px;
+}
+h4 {
+    font-size: 200%;
+    font-family: Verdana;
+    color: #000000;
+    font-weight: bold;
+    margin-left: 590px;
+   padding-top: 50px;
+}
+ol {
+    font-size: 110%;
+    font-family: Verdana;
+    color: #000000;
+    margin-left: 700px;
+    padding-bottom: 6px;
+}
+h5 {
+    font-size: 200%;
+    font-family: Verdana;
+    color: #000000;
+    font-weight: bold;
+    margin-left: 800px;
+    padding-top: 50px;
+}
+p {
+    font-size: 200%;
+    font-family: monospace;
+    color: #000000;
+}
+h6 {
+    font-size: 200%;
+    font-family: Verdana;
+    color: #000000;
+    font-weight: bold;
+    margin-left: 800px;
+    padding-top: 50px;
+}
+
+div.img1 {
+    width: 2000px;
+    height: 1260px;
+    background-image: url('https://www.sayidaty.net/sites/default/files/pictures/July/47591/2021/shutterstock_1441685093.jpg');
+    background-size: 2000px 1260px;
+    filter: brightness(40%)
+}
+
+div.img1 p {
+        text-align: center;
+        font-size: 100px;
+        padding-top: 610px;
+        color: white;
+        font-weight: bold;
+        margin-left: 60px;
+    }
+img {
+    width:660;
+    height:600;
+    margin-left: 300px;
+}
+h7 {
+    font-size: 250%;
+    font-family: 'Mongolian Baiti';
+    color: #000000;
+    margin-left: 80px;
+    padding-top: 150px;
+}
+h8 {
+    padding-top: 500px;
+    font-size: 200%;
+    font-family: Verdana;
+    margin-left: 800px;
+}
+td img {
+    margin-left: 0px;
+}
